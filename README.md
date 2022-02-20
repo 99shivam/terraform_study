@@ -1,1 +1,1 @@
-# terraform_study
+# terraform_assignment
